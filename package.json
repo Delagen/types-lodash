@@ -1,0 +1,14 @@
+{
+	"dependencies": {},
+	"description": "TypeScript definitions for Lo-Dash",
+	"license": "MIT",
+	"main": "",
+	"name": "@types/lodash",
+	"peerDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Delagen/types-lodash.git"
+	},
+	"typeScriptVersion": "2.4",
+	"version": "4.14.72"
+}
