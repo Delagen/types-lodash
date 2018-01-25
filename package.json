@@ -1,14 +1,11 @@
 {
 	"dependencies": {},
-	"description": "TypeScript definitions for Lo-Dash 4",
-	"license": "MIT",
-	"main": "",
-	"name": "@types/lodash",
-	"peerDependencies": {},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/Delagen/types-lodash.git"
+	"description": "TypeScript definitions for Lo-Dash",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"main": "index",
+	"name": "lodash",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"typeScriptVersion": "2.6",
 	"version": "4.14.96"
 }
